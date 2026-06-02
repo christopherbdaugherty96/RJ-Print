@@ -6,7 +6,7 @@ Client website and business-planning project for a 3D print shop.
 
 RJ Print is a client build managed through Auralis Digital's website-business workflow.
 
-This repo is for organizing the client's business structure, website plan, product categories, pricing/margin system, custom print request process, and eventual website implementation.
+This repo is for organizing the client's business structure, website plan, product categories, pricing/margin system, custom print request process, scope, launch readiness, and eventual website implementation.
 
 ## Current client problem
 
@@ -30,15 +30,22 @@ RJ Print is already selling 3D printed products, but the business needs clearer 
 
 ## Start here
 
+- `docs/CURRENT_STATUS.md`
 - `docs/CLIENT_PROFILE.md`
+- `docs/SCOPE_AND_DELIVERY_PLAN.md`
 - `docs/BUSINESS_PLAN.md`
 - `docs/WEBSITE_PLAN.md`
+- `docs/IMPLEMENTATION_PLAN.md`
+- `docs/WEBSITE_COPY_DRAFT.md`
+- `docs/CONTACT_AND_CUSTOM_REQUEST_FORM_SPEC.md`
+- `docs/CLIENT_QUOTE_AND_SCOPE_TEMPLATE.md`
 - `docs/PRODUCT_CATEGORIES.md`
 - `docs/PRICING_AND_MARGIN_SYSTEM.md`
 - `docs/CUSTOM_PRINT_REQUEST_FLOW.md`
 - `docs/QUESTIONS_FOR_CLIENT.md`
 - `docs/ASSETS_NEEDED.md`
 - `docs/LAUNCH_CHECKLIST.md`
+- `docs/HANDOFF_NOTES_TEMPLATE.md`
 - `data/product_inventory_template.csv`
 
 ## Current status
@@ -47,4 +54,4 @@ Planning baseline started. No production website implementation has been added y
 
 ## Boundary
 
-Do not add automated printer integration, Shopify-to-printer automation, custom backend checkout, or printer queue logic until the product categories, pricing/margin system, and client approval path are defined.
+Do not add automated printer integration, Shopify-to-printer automation, custom backend checkout, or printer queue logic until the product categories, pricing/margin system, client approval path, and first website scope are defined.
