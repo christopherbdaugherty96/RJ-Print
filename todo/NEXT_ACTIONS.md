@@ -4,15 +4,17 @@ Status: active
 
 ## Highest Priority
 
-1. Collect the real product list.
-2. Populate `data/product_inventory_template.csv` with product names, lanes, prices, materials, print times, labor, costs, inventory counts, and notes.
-3. Collect real product photos for the first 5-10 candidate launch products.
-4. Confirm pricing and margin assumptions.
-5. Confirm pickup/shipping expectations.
-6. Confirm custom request rules and keep custom work quote/review-first.
-7. Confirm business contact information.
-8. Decide quote-first or checkout-enabled launch.
-9. Get client approval on product categories, prices, contact flow, policy expectations, and launch scope.
+1. Have RJ Print read `docs/HANDOFF_README_FOR_RJ_PRINT.md`.
+2. Review `docs/PLACEHOLDER_REPLACEMENT_CHECKLIST.md` with RJ Print.
+3. Collect the real product list.
+4. Populate `data/product_inventory_template.csv` with product names, lanes, prices, materials, print times, labor, costs, inventory counts, and notes.
+5. Collect real product photos for the first 5-10 candidate launch products.
+6. Confirm pricing and margin assumptions.
+7. Confirm pickup/shipping expectations.
+8. Confirm custom request rules and keep custom work quote/review-first.
+9. Confirm business contact information.
+10. Decide quote-first or checkout-enabled launch.
+11. Get client approval on product categories, prices, contact flow, policy expectations, and launch scope.
 
 ## After Discovery
 

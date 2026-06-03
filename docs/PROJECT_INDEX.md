@@ -9,7 +9,9 @@ Central index for the RJ Print planning repository.
 ## Start Here
 
 - README.md
+- docs/HANDOFF_README_FOR_RJ_PRINT.md
 - docs/CURRENT_STATUS.md
+- docs/PLACEHOLDER_REPLACEMENT_CHECKLIST.md
 - docs/PROJECT_INDEX.md
 - docs/CHANGELOG.md
 - todo/MASTER_TODO.md
@@ -58,6 +60,8 @@ Central index for the RJ Print planning repository.
 
 ## Client Handoff
 
+- docs/HANDOFF_README_FOR_RJ_PRINT.md
+- docs/PLACEHOLDER_REPLACEMENT_CHECKLIST.md
 - docs/SCOPE_AND_DELIVERY_PLAN.md
 - docs/HANDOFF_NOTES_TEMPLATE.md
 

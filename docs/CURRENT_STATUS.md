@@ -10,6 +10,8 @@ This repo is currently a planning and business-launch binder for the client proj
 
 ## What exists now
 
+- Client handoff README
+- Placeholder replacement checklist
 - Client profile
 - Business plan
 - Website plan
@@ -49,13 +51,19 @@ Current priority is collecting actual products, photos, prices, materials, print
 
 ## Immediate next actions
 
-1. Fill out `data/product_inventory_template.csv` with the client's real products, costs, production details, and inventory counts.
-2. Ask the questions in `docs/QUESTIONS_FOR_CLIENT.md`.
-3. Collect product photos and brand assets listed in `docs/ASSETS_NEEDED.md`.
-4. Decide whether version 1 is quote/contact-first or checkout-enabled.
-5. Confirm pickup/shipping rules, policy expectations, and contact details.
-6. Confirm the minimum website scope in `docs/SCOPE_AND_DELIVERY_PLAN.md`.
-7. Start website implementation only after product categories, prices, contact flow, policy expectations, launch scope, and client approval are confirmed.
+1. Read `docs/HANDOFF_README_FOR_RJ_PRINT.md`.
+2. Review `docs/PLACEHOLDER_REPLACEMENT_CHECKLIST.md`.
+3. Fill out `data/product_inventory_template.csv` with the client's real products, costs, production details, and inventory counts.
+4. Ask the questions in `docs/QUESTIONS_FOR_CLIENT.md`.
+5. Collect product photos and brand assets listed in `docs/ASSETS_NEEDED.md`.
+6. Decide whether version 1 is quote/contact-first or checkout-enabled.
+7. Confirm pickup/shipping rules, policy expectations, and contact details.
+8. Confirm the minimum website scope in `docs/SCOPE_AND_DELIVERY_PLAN.md`.
+9. Start website implementation only after product categories, prices, contact flow, policy expectations, launch scope, and client approval are confirmed.
+
+## Placeholder rule
+
+Anything marked `TBD`, `example`, `draft`, `to be confirmed`, `requires client confirmation`, `placeholder`, or `not finalized` must be replaced, approved, removed, or held before launch.
 
 ## Build boundary
 

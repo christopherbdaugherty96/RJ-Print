@@ -27,6 +27,8 @@
 - Assets-needed checklist
 - Launch checklist
 - Handoff notes template
+- Client handoff README
+- Placeholder replacement checklist
 - Project index
 - Product inventory and margin CSV template
 - TODO tracking folder
