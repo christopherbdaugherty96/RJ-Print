@@ -6,7 +6,7 @@ Status: active
 
 The documentation framework is now mostly in place. The next work should focus on real client data, not more broad planning documents.
 
-Use `docs/CURRENT_STATUS.md` as the current truth layer. Use `data/product_inventory_template.csv` as the next source of truth once real product data is collected.
+Use `docs/CURRENT_STATUS.md` as the current truth layer. Shopify is the intended sales platform, and `data/product_inventory_template.csv` is the next source of truth once real product data is collected.
 
 ## Immediate discovery
 
@@ -19,6 +19,7 @@ Use `docs/CURRENT_STATUS.md` as the current truth layer. Use `data/product_inven
 - [ ] Confirm which products are ready-made, made-to-order, custom-only, or bulk.
 - [ ] Identify best sellers.
 - [ ] Identify products with weak margins or high failure risk.
+- [ ] Confirm Shopify titles, handles, collections, product types, tags, SKUs, variants, shipping profiles, and SEO fields for each launch product.
 
 ## Business
 
@@ -63,12 +64,14 @@ Use `docs/CURRENT_STATUS.md` as the current truth layer. Use `data/product_inven
 ## Website
 
 - [ ] Confirm website scope.
-- [ ] Confirm quote-first vs checkout-enabled version.
+- [ ] Confirm Shopify launch mode: quote/contact-first, checkout-enabled, or mixed.
+- [ ] Confirm Shopify store access.
+- [ ] Confirm Shopify collections and product structure.
+- [ ] Confirm Shopify payment, tax, shipping/pickup, and policy setup.
 - [ ] Confirm contact form destination.
 - [ ] Confirm custom request workflow.
 - [ ] Confirm shipping/pickup expectations.
 - [ ] Confirm required policy expectations before implementation.
-- [ ] Confirm whether Shopify is used for v1.
 - [ ] Build approved pages only after product categories, prices, contact flow, policies, launch scope, and client approval are confirmed.
 - [ ] Mobile review.
 - [ ] Desktop review.
@@ -82,6 +85,7 @@ Use `docs/CURRENT_STATUS.md` as the current truth layer. Use `data/product_inven
 - [ ] Review product categories.
 - [ ] Review custom request process.
 - [ ] Submit test contact/custom request.
+- [ ] Complete a successful Shopify test order before marking checkout ready, if checkout is enabled.
 - [ ] Client approval.
 - [ ] Launch.
 

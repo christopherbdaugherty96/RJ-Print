@@ -15,8 +15,10 @@ Status: active
 
 ## Website
 
-- [ ] Quote-first or checkout-enabled launch
-- [ ] Shopify or alternate platform
+- [ ] Shopify launch mode: quote/contact-first, checkout-enabled, or mixed
+- [ ] Shopify store access and admin ownership
+- [ ] Shopify collections and product structure
+- [ ] Shopify payment, tax, shipping/pickup, and policy setup
 - [ ] Final page list
 - [ ] Final branding direction
 - [ ] Client approval path before implementation
@@ -29,6 +31,7 @@ Status: active
 - [ ] Production time expectations
 - [ ] Product photos
 - [ ] Inventory counts for ready-made products
+- [ ] Shopify product handles, SKUs, tags, variants, and SEO fields
 
 ## Policies
 

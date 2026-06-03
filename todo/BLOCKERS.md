@@ -12,7 +12,15 @@ Status: active
 - Contact details not finalized
 - Shipping/pickup expectations not finalized
 - Domain decision not confirmed
+- Shopify store access not confirmed
+- Shopify collections not confirmed
+- Shopify product structure not confirmed
 - Checkout strategy not confirmed
+- Shopify payment setup not confirmed
+- Shopify tax setup not confirmed
+- Shopify shipping/pickup setup not confirmed
+- Shopify policies not approved
+- Shopify checkout not tested
 - Business legitimacy, tax, insurance, and payment readiness not confirmed
 - Policy expectations not finalized
 - Client approval not completed

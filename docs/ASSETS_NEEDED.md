@@ -73,7 +73,9 @@ Needed for each product:
 - [ ] Domain decision
 - [ ] Hosting decision
 - [ ] Contact form destination
-- [ ] Shopify or no-Shopify decision for v1
+- [ ] Shopify store access
+- [ ] Shopify launch mode decision: quote/contact-first, checkout-enabled, or mixed
+- [ ] Shopify collections, product handles, SKUs, tags, inventory tracking, shipping profiles, and SEO fields
 - [ ] Analytics setup decision
 - [ ] File upload/form tool decision if custom uploads are needed
 

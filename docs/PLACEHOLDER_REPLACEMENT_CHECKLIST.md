@@ -81,8 +81,21 @@ Do not invent missing facts.
 
 ## Website and checkout
 
-- [ ] Quote/contact-first or checkout-enabled launch decision confirmed
-- [ ] Shopify decision confirmed
+- [ ] Quote/contact-first, checkout-enabled, or mixed launch decision confirmed
+- [ ] Shopify store name confirmed
+- [ ] Shopify store access confirmed
+- [ ] Shopify domain confirmed
+- [ ] Shopify collections confirmed
+- [ ] Shopify product handles confirmed
+- [ ] Shopify product types confirmed
+- [ ] Shopify vendor value confirmed
+- [ ] Shopify tags confirmed
+- [ ] Shopify SKUs confirmed
+- [ ] Shopify inventory quantities confirmed
+- [ ] Shopify inventory tracking confirmed
+- [ ] Shopify shipping profile confirmed
+- [ ] Shopify tax setup confirmed
+- [ ] Shopify payment setup confirmed
 - [ ] Checkout readiness confirmed if checkout is included
 - [ ] Contact form destination confirmed
 - [ ] Custom request flow confirmed

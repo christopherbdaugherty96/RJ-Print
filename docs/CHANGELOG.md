@@ -38,6 +38,11 @@
 - Next actions tracker
 - Future automation tracker
 
+### Changed
+
+- Confirmed Shopify as the intended sales platform while keeping Shopify setup, checkout, tax, payment, shipping, and policy readiness unverified.
+- Expanded the product inventory template with Shopify-ready setup fields.
+
 ### Notes
 
 These additions expand the repository from website planning into a broader business-launch and operational planning binder.

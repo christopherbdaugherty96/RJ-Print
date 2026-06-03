@@ -17,7 +17,7 @@ It organizes:
 - pricing and margin planning
 - custom print request workflow
 - policy needs
-- Shopify/readiness questions
+- Shopify readiness questions
 - launch readiness
 - risks and blockers
 - product inventory data collection
@@ -83,6 +83,29 @@ The repo already includes:
 
 These documents are planning tools. They still need RJ Print's real details before launch.
 
+## Shopify sales path
+
+Shopify is the intended sales platform for RJ Print.
+
+That does not mean Shopify is ready yet. RJ Print still needs to provide real product data and approve Shopify settings before products are added or checkout is treated as ready.
+
+Before Shopify launch, RJ Print must confirm:
+
+- store access
+- domain
+- collections
+- product titles and handles
+- product prices
+- product photos
+- SKUs and inventory settings
+- shipping or pickup setup
+- payment setup
+- tax setup
+- policy pages
+- checkout test result
+
+Checkout should stay marked unverified until a test order is completed successfully.
+
 ## What RJ Print still needs to provide
 
 RJ Print still needs to provide or confirm:
@@ -107,7 +130,7 @@ RJ Print still needs to provide or confirm:
 - return/refund rules
 - custom order rules
 - payment or deposit rules
-- Shopify/checkout decision
+- Shopify store access and checkout settings
 - required policy pages
 - final client approval
 
