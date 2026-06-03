@@ -32,6 +32,7 @@ RJ Print is already selling 3D printed products, but the business needs clearer 
 ## Start here
 
 - `docs/HANDOFF_README_FOR_RJ_PRINT.md`
+- `docs/SERVICE_SCOPE_FOR_RJ_PRINT.md`
 - `docs/CURRENT_STATUS.md`
 - `docs/PLACEHOLDER_REPLACEMENT_CHECKLIST.md`
 - `docs/PROJECT_INDEX.md`
@@ -44,6 +45,7 @@ RJ Print is already selling 3D printed products, but the business needs clearer 
 
 - `docs/CLIENT_PROFILE.md`
 - `docs/SCOPE_AND_DELIVERY_PLAN.md`
+- `docs/SERVICE_SCOPE_FOR_RJ_PRINT.md`
 - `docs/BUSINESS_PLAN.md`
 - `docs/BUSINESS_LEGITIMACY_CHECKLIST.md`
 - `docs/LEGAL_TAX_AND_INSURANCE_CHECKLIST.md`
