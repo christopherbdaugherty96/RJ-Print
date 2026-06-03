@@ -6,13 +6,17 @@ Status: active
 
 - Real product list not fully collected
 - Real product pricing not confirmed
+- Real material, print-time, labor, and margin data not verified
 - Product photos not fully collected
-- Product margin data not verified
+- Inventory counts not confirmed
 - Contact details not finalized
 - Shipping/pickup expectations not finalized
 - Domain decision not confirmed
 - Checkout strategy not confirmed
+- Business legitimacy, tax, insurance, and payment readiness not confirmed
+- Policy expectations not finalized
 - Client approval not completed
+- Website implementation has not started and should wait for client-approved scope
 
 ## Launch blockers
 
@@ -25,3 +29,4 @@ The project is not ready for public promotion until:
 - Custom request process is clear
 - Shipping/pickup expectations are documented
 - Policies are reviewed
+- Any checkout path is implemented and verified, if checkout is included

@@ -71,9 +71,9 @@ RJ Print is already selling 3D printed products, but the business needs clearer 
 
 ## Current status
 
-Planning and business-launch binder established. No production website implementation has been added yet.
+Planning and business-launch binder established. No production website implementation has been added yet, and Shopify checkout has not been implemented or verified.
 
-The next priority is collecting real client data: actual products, photos, prices, materials, print times, inventory counts, contact details, and shipping/pickup rules.
+The next priority is collecting real client data: actual products, photos, prices, materials, print times, inventory counts, contact details, shipping/pickup rules, and client approval.
 
 ## Boundary
 

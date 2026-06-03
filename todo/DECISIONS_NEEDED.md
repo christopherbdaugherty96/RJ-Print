@@ -5,11 +5,13 @@ Status: active
 ## Business
 
 - [ ] Business structure
+- [ ] Business legitimacy, tax, insurance, and payment readiness
 - [ ] Domain
 - [ ] Business email
 - [ ] Public phone number
 - [ ] Service area
 - [ ] Pickup availability
+- [ ] Shipping availability and shipping method
 
 ## Website
 
@@ -17,6 +19,7 @@ Status: active
 - [ ] Shopify or alternate platform
 - [ ] Final page list
 - [ ] Final branding direction
+- [ ] Client approval path before implementation
 
 ## Products
 
@@ -25,6 +28,7 @@ Status: active
 - [ ] Material options
 - [ ] Production time expectations
 - [ ] Product photos
+- [ ] Inventory counts for ready-made products
 
 ## Policies
 

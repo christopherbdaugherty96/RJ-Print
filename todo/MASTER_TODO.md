@@ -6,6 +6,8 @@ Status: active
 
 The documentation framework is now mostly in place. The next work should focus on real client data, not more broad planning documents.
 
+Use `docs/CURRENT_STATUS.md` as the current truth layer. Use `data/product_inventory_template.csv` as the next source of truth once real product data is collected.
+
 ## Immediate discovery
 
 - [ ] Collect actual product list from RJ Print.
@@ -65,8 +67,9 @@ The documentation framework is now mostly in place. The next work should focus o
 - [ ] Confirm contact form destination.
 - [ ] Confirm custom request workflow.
 - [ ] Confirm shipping/pickup expectations.
+- [ ] Confirm required policy expectations before implementation.
 - [ ] Confirm whether Shopify is used for v1.
-- [ ] Build approved pages.
+- [ ] Build approved pages only after product categories, prices, contact flow, policies, launch scope, and client approval are confirmed.
 - [ ] Mobile review.
 - [ ] Desktop review.
 

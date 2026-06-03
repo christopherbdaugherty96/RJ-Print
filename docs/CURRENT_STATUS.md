@@ -6,7 +6,7 @@ Status: current truth layer
 
 RJ Print is a client website and business-planning project for a 3D print shop.
 
-This repo currently contains the planning baseline for the client project. It does not yet contain a production website implementation.
+This repo is currently a planning and business-launch binder for the client project. It does not yet contain a production website implementation, live storefront, working Shopify checkout, backend checkout, or printer automation.
 
 ## What exists now
 
@@ -27,6 +27,9 @@ This repo currently contains the planning baseline for the client project. It do
 - Actual product photos
 - Actual product prices
 - Real material/print-time/margin data
+- Inventory counts
+- Business contact details
+- Pickup/shipping rules
 - Final custom request rules approved by client
 - Domain/hosting decision
 - Website code
@@ -42,18 +45,23 @@ Discovery and planning.
 
 The next correct step is to collect real product and business data from the client before building public website pages.
 
+Current priority is collecting actual products, photos, prices, materials, print times, inventory counts, contact details, pickup/shipping rules, and client approval.
+
 ## Immediate next actions
 
-1. Fill out `data/product_inventory_template.csv` with the client's real products.
+1. Fill out `data/product_inventory_template.csv` with the client's real products, costs, production details, and inventory counts.
 2. Ask the questions in `docs/QUESTIONS_FOR_CLIENT.md`.
 3. Collect product photos and brand assets listed in `docs/ASSETS_NEEDED.md`.
 4. Decide whether version 1 is quote/contact-first or checkout-enabled.
-5. Confirm the minimum website scope in `docs/SCOPE_AND_DELIVERY_PLAN.md`.
-6. Start website implementation only after product categories, prices, and contact flow are approved.
+5. Confirm pickup/shipping rules, policy expectations, and contact details.
+6. Confirm the minimum website scope in `docs/SCOPE_AND_DELIVERY_PLAN.md`.
+7. Start website implementation only after product categories, prices, contact flow, policy expectations, launch scope, and client approval are confirmed.
 
 ## Build boundary
 
 Do not add printer automation, Shopify-to-printer automation, custom backend checkout, or file-upload complexity until the first client-approved website scope is stable.
+
+Custom print requests should remain quote/review-first until manual request rules, pricing, and acceptance criteria are proven.
 
 ## Definition of first useful version
 

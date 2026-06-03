@@ -88,6 +88,10 @@ Examples:
 - LED display items
 - decorative light structures
 
+Review note:
+
+- Lamps, lighting, wiring, heat, and electrical use require safety review before listing.
+
 ### Clocks and Wall Decor
 
 Examples:
@@ -126,6 +130,10 @@ Examples:
 - replacement-style parts
 - hooks
 - tool/desk/shop organizers
+
+Review note:
+
+- Medical, automotive, safety-critical, and load-bearing parts should not be listed as standard products unless the client has verified the material, design, use case, and limits.
 
 ### Business and Event Prints
 

@@ -13,7 +13,7 @@ Track project, business, website, product, and launch risks for RJ Print.
 | Launching checkout before tax, shipping, refund, and fulfillment rules are confirmed | Can create customer, accounting, and legal problems | Keep v1 quote/contact-first unless checkout readiness is verified |
 | Selling custom work without quote approval | Custom print cost, time, and failure risk can vary heavily | Require manual review and quote approval before production |
 | Overstating printer automation | Could imply fulfillment capability that does not exist | Keep printer automation documented as future-only |
-| Selling high-risk product categories too early | Lamps, food-contact items, child products, and safety parts need extra review | Hold high-risk categories or add specific safety review before listing |
+| Selling high-risk product categories too early | Lamps/electrical products, food-contact items, children's products, safety-critical parts, medical/automotive parts, and load-bearing parts need extra review | Hold high-risk categories or add specific safety review before listing |
 | Mixing RJ Print and Auralis Digital branding | Can confuse customers and overwrite the wrong business identity | Use Auralis only as builder/template reference; RJ Print remains separate |
 
 ## Medium risks
